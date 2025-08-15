@@ -1,0 +1,170 @@
+[
+  {
+    "id": 1,
+    "name": "Story Book",
+    "description": "A collection of stories to showcase components and their states.",
+    "price": 115,
+    "category": "Story",
+    "image": "https://img.freepik.com/free-psd/books-stack-icon-isolated-3d-render-illustration_47987-15482.jpg?uid=R204608962&ga=GA1.1.1326531655.1713611526&semt=ais_hybrid&w=740"
+  },
+  {
+    "id": 2,
+    "name": "Horror Book",
+    "description": "Spine‑tingling stories to keep you up at night.",
+    "price": 0,
+    "category": "Horror",
+    "image": "https://img.freepik.com/free-psd/books-stack-icon-isolated-3d-render-illustration_47987-15482.jpg?uid=R204608962&ga=GA1.1.1326531655.1713611526&semt=ais_hybrid&w=740"
+  },
+  {
+    "id": 3,
+    "name": "Science Encyclopedia",
+    "description": "Covers physics, chemistry, and biology in one volume.",
+    "price": 150,
+    "category": "Education",
+    "image": "https://img.freepik.com/free-psd/books-stack-icon-isolated-3d-render-illustration_47987-15482.jpg?uid=R204608962&ga=GA1.1.1326531655.1713611526&semt=ais_hybrid&w=740"
+  },
+  {
+    "id": 4,
+    "name": "Comic Book",
+    "description": "Enjoy fun and thrilling comic stories for kids.",
+    "price": 75,
+    "category": "Comics",
+    "image": "https://img.freepik.com/free-psd/books-stack-icon-isolated-3d-render-illustration_47987-15482.jpg?uid=R204608962&ga=GA1.1.1326531655.1713611526&semt=ais_hybrid&w=740"
+  },
+  {
+    "id": 5,
+    "name": "Math Workbook",
+    "description": "Practice problems for students in algebra and geometry.",
+    "price": 120,
+    "category": "Workbooks",
+    "image": "https://img.freepik.com/free-psd/books-stack-icon-isolated-3d-render-illustration_47987-15482.jpg?uid=R204608962&ga=GA1.1.1326531655.1713611526&semt=ais_hybrid&w=740"
+  },
+  {
+    "id": 6,
+    "name": "Novel - The Lost City",
+    "description": "An adventure novel set in the Amazon rainforest.",
+    "price": 200,
+    "category": "Fiction",
+    "image": "https://img.freepik.com/free-psd/books-stack-icon-isolated-3d-render-illustration_47987-15482.jpg?uid=R204608962&ga=GA1.1.1326531655.1713611526&semt=ais_hybrid&w=740"
+  },
+  {
+    "id": 7,
+    "name": "English Grammar Guide",
+    "description": "Master English grammar with detailed rules and examples.",
+    "price": 90,
+    "category": "Language",
+    "image": "https://img.freepik.com/free-psd/books-stack-icon-isolated-3d-render-illustration_47987-15482.jpg?uid=R204608962&ga=GA1.1.1326531655.1713611526&semt=ais_hybrid&w=740"
+  },
+  {
+    "id": 8,
+    "name": "History of India",
+    "description": "A timeline journey from ancient to modern India.",
+    "price": 130,
+    "category": "History",
+    "image": "https://img.freepik.com/free-psd/books-stack-icon-isolated-3d-render-illustration_47987-15482.jpg?uid=R204608962&ga=GA1.1.1326531655.1713611526&semt=ais_hybrid&w=740"
+  },
+  {
+    "id": 9,
+    "name": "Children’s Rhymes",
+    "description": "Colorful rhymes and songs to engage toddlers.",
+    "price": 60,
+    "category": "Kids",
+    "image": "https://img.freepik.com/free-psd/books-stack-icon-isolated-3d-render-illustration_47987-15482.jpg?uid=R204608962&ga=GA1.1.1326531655.1713611526&semt=ais_hybrid&w=740"
+  },
+  {
+    "id": 10,
+    "name": "Cooking Made Easy",
+    "description": "Quick and healthy recipes for beginners.",
+    "price": 110,
+    "category": "Cooking",
+    "image": "https://img.freepik.com/free-psd/books-stack-icon-isolated-3d-render-illustration_47987-15482.jpg?uid=R204608962&ga=GA1.1.1326531655.1713611526&semt=ais_hybrid&w=740"
+  },
+  {
+    "id": 11,
+    "name": "Travel Diary",
+    "description": "Document your travel memories and adventures.",
+    "price": 85,
+    "category": "Travel",
+    "image": "https://img.freepik.com/free-psd/books-stack-icon-isolated-3d-render-illustration_47987-15482.jpg?uid=R204608962&ga=GA1.1.1326531655.1713611526&semt=ais_hybrid&w=740"
+  },
+  {
+    "id": 12,
+    "name": "Puzzle Book",
+    "description": "A collection of brain teasers and fun puzzles.",
+    "price": 0,
+    "category": "Free",
+    "image": "https://img.freepik.com/free-psd/books-stack-icon-isolated-3d-render-illustration_47987-15482.jpg?uid=R204608962&ga=GA1.1.1326531655.1713611526&semt=ais_hybrid&w=740"
+  },
+  {
+    "id": 13,
+    "name": "Art & Craft Ideas",
+    "description": "Creative DIY crafts for children and adults.",
+    "price": 0,
+    "category": "Free",
+    "image": "https://img.freepik.com/free-psd/books-stack-icon-isolated-3d-render-illustration_47987-15482.jpg?uid=R204608962&ga=GA1.1.1326531655.1713611526&semt=ais_hybrid&w=740"
+  },
+  {
+    "id": 14,
+    "name": "Short Poems Collection",
+    "description": "A beautiful set of short and meaningful poems.",
+    "price": 0,
+    "category": "Free",
+    "image": "https://img.freepik.com/free-psd/books-stack-icon-isolated-3d-render-illustration_47987-15482.jpg?uid=R204608962&ga=GA1.1.1326531655.1713611526&semt=ais_hybrid&w=740"
+  },
+  {
+    "id": 15,
+    "name": "Science Experiments",
+    "description": "Fun and safe experiments you can try at home.",
+    "price": 0,
+    "category": "Free",
+    "image": "https://img.freepik.com/free-psd/books-stack-icon-isolated-3d-render-illustration_47987-15482.jpg?uid=R204608962&ga=GA1.1.1326531655.1713611526&semt=ais_hybrid&w=740"
+  },
+  {
+    "id": 16,
+    "name": "Motivational Quotes",
+    "description": "Inspiring quotes to brighten your day.",
+    "price": 0,
+    "category": "Free",
+    "image": "https://img.freepik.com/free-psd/books-stack-icon-isolated-3d-render-illustration_47987-15482.jpg?uid=R204608962&ga=GA1.1.1326531655.1713611526&semt=ais_hybrid&w=740"
+  },
+  {
+    "id": 17,
+    "name": "Basic Drawing Guide",
+    "description": "Step-by-step lessons for beginner artists.",
+    "price": 0,
+    "category": "Free",
+    "image": "https://img.freepik.com/free-psd/books-stack-icon-isolated-3d-render-illustration_47987-15482.jpg?uid=R204608962&ga=GA1.1.1326531655.1713611526&semt=ais_hybrid&w=740"
+  },
+  {
+    "id": 18,
+    "name": "Daily Journal",
+    "description": "A guided journal to help track thoughts and goals.",
+    "price": 0,
+    "category": "Free",
+    "image": "https://img.freepik.com/free-psd/books-stack-icon-isolated-3d-render-illustration_47987-15482.jpg?uid=R204608962&ga=GA1.1.1326531655.1713611526&semt=ais_hybrid&w=740"
+  },
+  {
+    "id": 19,
+    "name": "Mindfulness Handbook",
+    "description": "Simple practices to help you stay calm and focused.",
+    "price": 0,
+    "category": "Free",
+    "image": "https://img.freepik.com/free-psd/books-stack-icon-isolated-3d-render-illustration_47987-15482.jpg?uid=R204608962&ga=GA1.1.1326531655.1713611526&semt=ais_hybrid&w=740"
+  },
+  {
+    "id": 20,
+    "name": "Budget Planner",
+    "description": "Plan your monthly finances and save smarter.",
+    "price": 0,
+    "category": "Free",
+    "image": "https://img.freepik.com/free-psd/books-stack-icon-isolated-3d-render-illustration_47987-15482.jpg?uid=R204608962&ga=GA1.1.1326531655.1713611526&semt=ais_hybrid&w=740"
+  },
+  {
+    "id": 21,
+    "name": "Fitness Tracker",
+    "description": "Record your workouts and health progress daily.",
+    "price": 0,
+    "category": "Free",
+    "image": "https://img.freepik.com/free-psd/books-stack-icon-isolated-3d-render-illustration_47987-15482.jpg?uid=R204608962&ga=GA1.1.1326531655.1713611526&semt=ais_hybrid&w=740"
+  }
+]
