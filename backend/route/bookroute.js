@@ -3,4 +3,5 @@ const getBook = require("../controller/bookcontroller");
 
 const router = express.Router();
 
-router
+router.get("/",getBook);
+module.exports = router;

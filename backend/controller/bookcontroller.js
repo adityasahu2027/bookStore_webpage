@@ -1,7 +1,7 @@
 const Book = require("../model/book");
 
 
-export const getBook = async(req, res) => {
+const getBook = async(req, res) => {
     try {
        const book = await Book.find();
        res.status(200).json(book);
@@ -10,3 +10,4 @@ export const getBook = async(req, res) => {
         res.status(500).json({ message: "Internal Server Error" });
     }
 }
+module.exports = getBook;
