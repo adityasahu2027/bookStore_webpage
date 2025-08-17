@@ -52,7 +52,7 @@ if(theme === 'dark') {
          <li><a href="/">Home</a></li>
          <li><a href="/course">Course</a></li>
          <li><a href="/contact">Contact</a></li>
-         <li><a href="/about">About</a></li>
+         <li><a href="#">About</a></li>
       </ul>
     </div>
     <a href="/" className=" text-2xl font-bold">bookStore</a>
@@ -63,7 +63,7 @@ if(theme === 'dark') {
       <li><a href="/">Home</a></li>
       <li><a href="/course">Course</a></li>
       <li><a href="/contact">Contact</a></li>
-      <li><a href="/about">About</a></li>
+      <li><a href="#">About</a></li>
     </ul>
   </div>
   <div className='hidden md:block'>
